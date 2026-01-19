@@ -23,25 +23,25 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "ChinmayDP.jpeg"
+  name             : "Chinmay"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "American Express | IndiaAI & Chanakya UG Fellow| National Winner American Express - Decision Track | Convolve 3.0 Winner | 1st Runner-up in Intel One API Hackathon| EE Dual ’26 @IIT KGP"
+  location         : "New Delhi"
+  employer         : "IIT Kharagpur"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "chinmay.gupta@kgpian.iitkgp.ac.in" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -51,8 +51,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
+  github           : "https://github.com/chinmaygupta26"
+  kaggle           : "https://www.kaggle.com/chinmay026"  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
