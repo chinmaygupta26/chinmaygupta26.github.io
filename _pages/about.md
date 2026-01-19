@@ -7,9 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hi! I am Chinmay Gupta, a final-year student pursuing an Integrated Dual Degree in Electrical Engineering with a specialization in Machine Learning and Signal Processing at IIT Kharagpur.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I am currently working at the [Medical Imaging and Theragnostics (MIT) Lab](https://mitlabiitkgp.in/team/), School of Medical Sciences and Technology, IIT Kharagpur, under the guidance of [Prof. Subhamoy Mandal](https://www.linkedin.com/in/smandal/). In parallel, I have previously worked at the [Multimodal Urban Sustainable Transportation (MUST) Lab](https://www.linkedin.com/in/must-lab-iit-kharagpur-3a739830b/) under the guidance of [Prof. Arkopal K. Goswami](https://www.linkedin.com/in/arkopal-k-goswami-9609a24/), where I explored the application of data-driven and learning-based methods to large-scale urban systems.
+
+My research interests lie at the intersection of Machine Learning and Healthcare, with a particular focus on medical imaging and building clinically meaningful AI systems. I am motivated by the belief that many longstanding challenges in biology and medicine can be addressed by thoughtfully adapting and advancing modern machine learning techniques, especially when paired with domain knowledge and real-world constraints.
+
+I have been honored with the Chanakya UG Fellowship (NM-ICPS) for my research work under Prof. Mandal, and the IndiaAI Fellowship for my work under Prof. Kishore.
+
+Outside of academics, I am an avid squash player and have represented my college at multiple outstation and Inter-IIT tournaments. I also enjoy playing football, swimming, and binge-watching sitcoms in my downtime.
 
 A data-driven personal website
 ======
