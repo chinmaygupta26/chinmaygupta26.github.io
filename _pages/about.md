@@ -13,7 +13,7 @@ I am currently working at the Medical Imaging and Theragnostics [(MIT) Lab](http
 
 My research interests lie at the intersection of Machine Learning and Healthcare, with a particular focus on medical imaging and building clinically meaningful AI systems. I am motivated by the belief that many longstanding challenges in biology and medicine can be addressed by thoughtfully adapting and advancing modern machine learning techniques, especially when paired with domain knowledge and real-world constraints.
 
-I have been honored with the Chanakya UG Fellowship (NM-ICPS) for my research work under Prof. Mandal, and the IndiaAI Fellowship for my work under Prof. Kishore.
+I have been honored with the Chanakya UG Fellowship (NM-ICPS) for my research work under Prof. Mandal, and the IndiaAI Fellowship for my work under Prof. Goswami.
 
 Outside of academics, I am an avid squash player and have represented my college at multiple outstation and Inter-IIT tournaments. I also enjoy playing football, swimming, and binge-watching sitcoms in my downtime.
 
